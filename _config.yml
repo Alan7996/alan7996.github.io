@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Alan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an undergraduate senior studying CS at Carnegie Mellon University."
+  location         : "Pittsburgh"
   email            :
   links:
     - label: "Email"
